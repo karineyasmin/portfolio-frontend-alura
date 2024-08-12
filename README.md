@@ -4,3 +4,6 @@
 
 - **HTML**
 - **CSS**
+- **Vercel**
+
+# [Veja o portfolio aqui](https://portfolio-frontend-alura.vercel.app/)
